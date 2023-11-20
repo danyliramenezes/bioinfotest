@@ -56,3 +56,4 @@ Na segunda etapa você será responsável por identificar uma espécie de um mic
 - O arquivo multifasta alinhado.
 - O modelo evolutivo calculado. 
 - E a lista de softwares que você utilizou para chegar no resultado.
+- O arquivo `questões_2.txt` dentro da pasta output preenchido com as respostas de cada quesito.
